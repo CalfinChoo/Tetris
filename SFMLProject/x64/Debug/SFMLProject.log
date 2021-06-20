@@ -1,0 +1,108 @@
+﻿  main.cpp
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(41,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(69,5): warning C5043: 'Block::Block': exception specification does not match previous declaration
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(41): message : see declaration of 'Block::Block'
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(110,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(110,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(126,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(126,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(129,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(129,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(134,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(134,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(137,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(137,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(146,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(146,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(149,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(149,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(153,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(153,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(156,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(156,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(162,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(162,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(184,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(184,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(187,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(187,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(192,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(192,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(195,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(195,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(205,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(205,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(208,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(208,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(213,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(213,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(216,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(216,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(226,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(226,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(229,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(229,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(234,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(234,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(237,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(237,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(287,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(288,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(320,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(320,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(484,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(488,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(492,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(492,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(495,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(501,94): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(567,16): warning C4101: 'n': unreferenced local variable
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(601,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(674,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(700,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\SFMLProject\main.cpp(712,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SFMLProject.vcxproj -> C:\Users\Calvin\OneDrive\Documents\source\repos\SFMLProject\x64\Debug\SFMLProject.exe
